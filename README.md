@@ -1,15 +1,21 @@
-<!-- Here is the code for the animated banner at the very top (wave header) -->
+<!-- Here is the code for the static banner at the very top (wave header with name and title) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Rahat%20Ali%20Khan%20Imon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Driven%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Rahat%20Ali%20Khan%20Imon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=AI-First%20Software%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
 </p>
 
-<!-- Here is the code for the typing animation (the lines will type out one by one) -->
+<!-- Here is the code for the typing animation (the lines type out one by one: name, title, what I build, where I'm heading) -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Imon;I+build+AI-powered+web+apps;Full+Stack+%7C+Problem+Solver;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Rahat+Ali+Khan+Imon;AI-First+Software+Engineer;Building+full+stack+products+with+TypeScript;Moving+towards+Agentic+AI+Engineering;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Here is the code for the one-line tagline under the typing animation -->
+
+<p align="center">
+  <b>Building intelligent applications through Full Stack Development, AI, and Problem Solving.</b>
 </p>
 
 <!-- Here is the code for the profile views counter and followers badge -->
@@ -19,15 +25,18 @@
   <img src="https://img.shields.io/github/followers/rahat-ali-khan-imon?label=Followers&style=flat&logo=github&color=0e75b6" alt="followers" />
 </p>
 
-<!-- Here is the code for the "About Me" section (EDIT the bullet points with your real info) -->
+<!-- Here is the code for the "About Me" section (short intro paragraph, then bullets for current work and interests) -->
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **AI-driven full stack products**
-- 🌱 I'm currently learning **advanced system design and AI integration**
-- 🏆 I solve problems on **Codeforces** and **LeetCode**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, Python**
-- ⚡ Fun fact: **I love turning ideas into working products**
+I'm passionate about software development, problem solving, and continuous learning. My goal is to become an AI-First Software Engineer who builds intelligent and meaningful software solutions.
+
+- 💻 Interested in **Full Stack Development** and **AI-powered applications**
+- 🚀 Currently learning **Backend Development** through **Programming Hero Next Level**
+- 🧠 Improving my programming and problem-solving skills
+- 🤖 AI and Machine Learning are part of my future learning goals
+- 📚 I love reading Technical, Personal Development, Fiction, and Non-fiction books
+- 🎵 I enjoy listening to music
 
 <!-- Here is the code for the social/contact links (LinkedIn, Codeforces, LeetCode) -->
 
@@ -67,10 +76,19 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=10" alt="devops" />
 </p>
 
-**Data**
+<!-- Here is the code for the AI/ML and Data logos (Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV, Jupyter) -->
+
+**AI / ML and Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pandas&perline=10" alt="data" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
 </p>
 
 <!-- Here is the code for the GitHub stats cards (stats on the left, top languages on the right) -->
@@ -103,15 +121,6 @@
 | [**Project One**](https://github.com/rahat-ali-khan-imon/project-one) | Short one-line description of what it does | `Next.js` `NestJS` `PostgreSQL` |
 | [**Project Two**](https://github.com/rahat-ali-khan-imon/project-two) | Short one-line description of what it does | `React` `Node.js` `MongoDB` |
 | [**Project Three**](https://github.com/rahat-ali-khan-imon/project-three) | Short one-line description of what it does | `Python` `Pandas` |
-
-<!-- Here is the code for the Codeforces and LeetCode rating cards (competitive programming section) -->
-
-## 🧠 Competitive Programming
-
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iamrobot&theme=tokyonight" alt="codeforces stats" />
-  <img src="https://leetcard.jacoblin.cool/iamrobot101?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
-</p>
 
 <!-- Here is the code for a closing quote that changes every time the page is refreshed -->
 
