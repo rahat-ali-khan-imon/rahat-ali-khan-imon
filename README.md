@@ -1,18 +1,126 @@
-<h1 align="center">Hi 👋, I'm Md. Rahat Ali Khan Imon</h1>
-<h3 align="center">AI-Driven Full Stack Software Engineer</h3>
+<!-- Here is the code for the animated banner at the very top (wave header) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahat-ali-klhan-imon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-ali-klhan-imon" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iamrobot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamrobot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamrobot101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamrobot101" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Rahat%20Ali%20Khan%20Imon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Driven%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Here is the code for the typing animation (the lines will type out one by one) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat-ali-khan-imon&show_icons=true&locale=en&layout=compact" alt="rahat-ali-khan-imon" /></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Imon;I+build+AI-powered+web+apps;Full+Stack+%7C+Problem+Solver;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-ali-khan-imon&show_icons=true&locale=en" alt="rahat-ali-khan-imon" /></p>
+<!-- Here is the code for the profile views counter and followers badge -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-ali-khan-imon&" alt="rahat-ali-khan-imon" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahat-ali-khan-imon&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rahat-ali-khan-imon?label=Followers&style=flat&logo=github&color=0e75b6" alt="followers" />
+</p>
+
+<!-- Here is the code for the "About Me" section (EDIT the bullet points with your real info) -->
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **AI-driven full stack products**
+- 🌱 I'm currently learning **advanced system design and AI integration**
+- 🏆 I solve problems on **Codeforces** and **LeetCode**
+- 💬 Ask me about **React, Next.js, Node.js, NestJS, Python**
+- ⚡ Fun fact: **I love turning ideas into working products**
+
+<!-- Here is the code for the social/contact links (LinkedIn, Codeforces, LeetCode) -->
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rahat-ali-klhan-imon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/iamrobot" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.leetcode.com/iamrobot101" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
+<!-- Here is the code for the tech stack, grouped by category so it is easier to read -->
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=10" alt="languages" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=10" alt="frontend" />
+</p>
+
+**Backend and Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres&perline=10" alt="backend" />
+</p>
+
+**DevOps, Cloud and Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=10" alt="devops" />
+</p>
+
+**Data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pandas&perline=10" alt="data" />
+</p>
+
+<!-- Here is the code for the GitHub stats cards (stats on the left, top languages on the right) -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahat-ali-khan-imon&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-ali-khan-imon&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<!-- Here is the code for the contribution streak card -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rahat-ali-khan-imon&theme=tokyonight&hide_border=true" alt="github streak" />
+</p>
+
+<!-- Here is the code for the contribution graph (activity over time) -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-ali-khan-imon&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+<!-- Here is the code for the Featured Projects table (REPLACE the names, descriptions and links with your real projects) -->
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**Project One**](https://github.com/rahat-ali-khan-imon/project-one) | Short one-line description of what it does | `Next.js` `NestJS` `PostgreSQL` |
+| [**Project Two**](https://github.com/rahat-ali-khan-imon/project-two) | Short one-line description of what it does | `React` `Node.js` `MongoDB` |
+| [**Project Three**](https://github.com/rahat-ali-khan-imon/project-three) | Short one-line description of what it does | `Python` `Pandas` |
+
+<!-- Here is the code for the Codeforces and LeetCode rating cards (competitive programming section) -->
+
+## 🧠 Competitive Programming
+
+<p align="left">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iamrobot&theme=tokyonight" alt="codeforces stats" />
+  <img src="https://leetcard.jacoblin.cool/iamrobot101?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
+</p>
+
+<!-- Here is the code for a closing quote that changes every time the page is refreshed -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</p>
+
+<!-- Here is the code for the footer wave (closes the profile) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+</p>
