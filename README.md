@@ -18,77 +18,76 @@
   <b>Building intelligent applications through Full Stack Development, AI, and Problem Solving.</b>
 </p>
 
-<!-- Here is the code for the profile views counter and followers badge -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahat-ali-khan-imon&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/rahat-ali-khan-imon?label=Followers&style=flat&logo=github&color=0e75b6" alt="followers" />
-</p>
-
-<!-- Here is the code for the "About Me" section (short intro paragraph, then bullets for current work and interests) -->
-
-## 👨‍💻 About Me
-
-I'm passionate about software development, problem solving, and continuous learning. My goal is to become an AI-First Software Engineer who builds intelligent and meaningful software solutions.
-
-- 💻 Interested in **Full Stack Development** and **AI-powered applications**
-- 🚀 Currently learning **Backend Development** through **Programming Hero Next Level**
-- 🧠 Improving my programming and problem-solving skills
-- 🤖 AI and Machine Learning are part of my future learning goals
-- 📚 I love reading Technical, Personal Development, Fiction, and Non-fiction books
-- 🎵 I enjoy listening to music
-
 <!-- Here is the code for the social/contact links (LinkedIn, Codeforces, LeetCode) -->
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rahat-ali-klhan-imon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/iamrobot" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/iamrobot101" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://linkedin.com/in/rahat-ali-khan-imon" target="_blank" title="LinkedIn"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/iamrobot" target="_blank" title="Codeforces"><img title="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.leetcode.com/iamrobot101" target="_blank" title="LeetCode"><img title="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<!-- Here is the code for the tech stack, grouped by category so it is easier to read -->
+<!-- Here is the code for the tech stack, grouped by category (hover over any icon to see its name) -->
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=10" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
 </p>
 
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=10" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" />
 </p>
 
 **Backend and Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres&perline=10" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
 </p>
 
 **DevOps, Cloud and Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=10" alt="devops" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" />
 </p>
 
-<!-- Here is the code for the AI/ML and Data logos (Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV, Jupyter) -->
+<!-- Here is the code for the AI/ML and Data logos (hover over any icon to see its name) -->
 
 **AI / ML and Data**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" />
 </p>
 
 <!-- Here is the code for the GitHub stats cards (stats on the left, top languages on the right) -->
@@ -110,22 +109,6 @@ I'm passionate about software development, problem solving, and continuous learn
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahat-ali-khan-imon&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
-<!-- Here is the code for the Featured Projects table (REPLACE the names, descriptions and links with your real projects) -->
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [**Project One**](https://github.com/rahat-ali-khan-imon/project-one) | Short one-line description of what it does | `Next.js` `NestJS` `PostgreSQL` |
-| [**Project Two**](https://github.com/rahat-ali-khan-imon/project-two) | Short one-line description of what it does | `React` `Node.js` `MongoDB` |
-| [**Project Three**](https://github.com/rahat-ali-khan-imon/project-three) | Short one-line description of what it does | `Python` `Pandas` |
-
-<!-- Here is the code for a closing quote that changes every time the page is refreshed -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 <!-- Here is the code for the footer wave (closes the profile) -->
