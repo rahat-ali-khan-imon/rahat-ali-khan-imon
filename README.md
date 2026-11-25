@@ -23,9 +23,9 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rahat-ali-khan-imon" target="_blank" title="LinkedIn"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/iamrobot" target="_blank" title="Codeforces"><img title="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/iamrobot101" target="_blank" title="LeetCode"><img title="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://linkedin.com/in/rahat-ali-khan-imon" target="_blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/iamrobot" target="_blank" title="Codeforces"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" title="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/iamrobot101" target="_blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" height="30" width="40" /></a>
 </p>
 
 <!-- Here is the code for the tech stack, grouped by category (hover over any icon to see its name) -->
