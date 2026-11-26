@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Rahat%20Ali%20Khan%20Imon&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=AI-First%20Software%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
 </p>
 
-<!-- Here is the code for the typing animation (the lines type out one by one: name, title, what I build, where I'm heading) -->
+<!-- Here is the code for the typing animation (the lines type out one by one: name, title, Full Stack Development, Problem Solving, Continuous Learning) -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Rahat+Ali+Khan+Imon;AI-First+Software+Engineer;Building+full+stack+products+with+TypeScript;Moving+towards+Agentic+AI+Engineering;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Rahat+Ali+Khan+Imon;AI-First+Software+Engineer;Full+Stack+Development;Problem+Solving;Continuous+Learning" alt="Typing SVG" />
   </a>
 </p>
 
