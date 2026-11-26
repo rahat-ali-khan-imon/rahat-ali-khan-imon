@@ -28,66 +28,66 @@
   <a href="https://www.leetcode.com/iamrobot101" target="_blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" height="30" width="40" /></a>
 </p>
 
-<!-- Here is the code for the tech stack, grouped by category (hover over any icon to see its name) -->
+<!-- Here is the code for the tech stack, grouped by category (hover over any icon to see its name, click to open its website) -->
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="48" height="48" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>
 </p>
 
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" /></a>
 </p>
 
 **Backend and Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="48" height="48" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="48" height="48" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" height="48" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" /></a>
 </p>
 
 **DevOps, Cloud and Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="48" height="48" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" /></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" /></a>
 </p>
 
-<!-- Here is the code for the AI/ML and Data logos (hover over any icon to see its name) -->
+<!-- Here is the code for the AI/ML and Data logos (hover over any icon to see its name, click to open its website) -->
 
 **AI / ML and Data**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" /></a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" /></a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="Scikit-learn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" /></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" /></a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="48" height="48" /></a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer" title="OpenCV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="48" height="48" /></a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer" title="Jupyter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" /></a>
 </p>
 
 <!-- Here is the code for the GitHub stats cards (stats on the left, top languages on the right) -->
