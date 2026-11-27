@@ -56,9 +56,6 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" /></a>
-  <!-- Here is the code for the extra frontend tools (build tool, styling) -->
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer" title="Vite"><img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" width="48" height="48" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"><img src="https://cdn.simpleicons.org/sass" alt="Sass" title="Sass" width="48" height="48" /></a>
 </p>
 
 **Backend and Databases**
