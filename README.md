@@ -26,6 +26,10 @@
   <a href="https://linkedin.com/in/rahat-ali-khan-imon" target="_blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/iamrobot" target="_blank" title="Codeforces"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" title="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/iamrobot101" target="_blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode" height="30" width="40" /></a>
+  <!-- Here is the code for the email link (opens the visitor's mail app) -->
+  <a href="mailto:rahatalikhan23063@gmaill.com" title="Email"><img align="center" src="https://api.iconify.design/mdi/email.svg?color=%23D44638" alt="Email" title="Email" height="30" width="40" /></a>
+  <!-- Here is the code for the portfolio website link (TEMPORARY: replace the # in href with your real portfolio URL when it is ready, or delete this line) -->
+  <a href="#" target="_blank" title="Portfolio"><img align="center" src="https://api.iconify.design/mdi/web.svg?color=%2336BCF7" alt="Portfolio" title="Portfolio" height="30" width="40" /></a>
 </p>
 
 <!-- Here is the code for the tech stack, grouped by category (hover over any icon to see its name, click to open its website) -->
